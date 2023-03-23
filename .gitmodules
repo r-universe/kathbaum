@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DrDimont"]
+	path = DrDimont
+	url = https://github.com/cran/DrDimont
+	shallow = true
+	registered = true
+[submodule "LoopDetectR"]
+	path = LoopDetectR
+	url = https://github.com/cran/LoopDetectR
+	shallow = true
+	registered = true
+[submodule "molnet"]
+	path = molnet
+	url = https://github.com/cran/molnet
+	shallow = true
+	registered = true
