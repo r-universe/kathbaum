@@ -8,6 +8,3 @@
 [submodule "LoopDetectR"]
 	path = LoopDetectR
 	url = https://github.com/cran/LoopDetectR
-[submodule "molnet"]
-	path = molnet
-	url = https://github.com/cran/molnet
