@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DrDimont"]
+	path = DrDimont
+	url = https://github.com/cran/DrDimont
 [submodule "LoopDetectR"]
 	path = LoopDetectR
 	url = https://github.com/cran/LoopDetectR
